@@ -1,0 +1,7 @@
+# 沿用 cuda-dev；仅列这两个脚本使用的依赖，无需重复安装。
+apache-tvm==0.25.0.post1
+apache-tvm-ffi==0.1.12
+numpy==2.5.2
+onnx==1.17.0
+onnxruntime==1.31.1
+cloudpickle==3.1.2
